@@ -1,0 +1,13 @@
+#header{
+height:250px;
+background-image:url('../img/header_bg.png');
+background-repeat: no-repeat;
+background-position: center;
+}
+body{
+color:#606060;
+}
+#footer{
+height:150px;
+background-color:#090909;
+}
